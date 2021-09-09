@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format"
+         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <ns2:layout-master-set xmlns:ns2="http://www.w3.org/1999/XSL/Format"
+                           xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                           xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+                           xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+                           xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+                           xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing">
+        <ns2:simple-page-master margin-bottom="0.5in" margin-left="0.72in" margin-right="30mm" margin-top="0.5in"
+                                master-name="s1-simple" page-height="11.69in" page-width="8.27in">
+            <ns2:region-body column-count="1" column-gap="0.5in" margin-bottom="0.0pt" margin-left="0mm"
+                             margin-right="0mm" margin-top="17.0pt"/>
+            <ns2:region-before extent="0.0pt" region-name="xsl-region-before-simple"/>
+            <ns2:region-after extent="0.0pt" region-name="xsl-region-after-simple"/>
+        </ns2:simple-page-master>
+        <ns2:page-sequence-master master-name="s1">
+            <ns2:repeatable-page-master-alternatives>
+                <ns2:conditional-page-master-reference master-reference="s1-simple"/>
+            </ns2:repeatable-page-master-alternatives>
+        </ns2:page-sequence-master>
+    </ns2:layout-master-set>
+    <fo:page-sequence force-page-count="no-force" id="section_s1" format="" master-reference="s1">
+        <fo:flow flow-name="xsl-region-body">
+            <fo:block break-before="auto" font-size="8.0pt" space-before="0mm"
+                      white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="8.5pt" font-weight="bold" space-before="0mm" start-indent="0in" text-align="center"
+                      white-space-collapse="false" white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">CỘNG HÒA XÃ HỘI CHỦ
+                    NGHĨA VIỆT NAM
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.01in" text-align="center" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" text-decoration="underline">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold"
+                        text-decoration="underline">
+                    <inline font-family="Times New Roman">Độc lập – Tự do – Hạnh phúc</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" text-align="center" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="8.5pt" space-before="0.09in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">CHÚNG TÔI GỒM:</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="1mm" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">KHÁCH HÀNG (BÊN</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">GIAO</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">):</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="13.0pt" white-space-collapse="false" white-space-treatment="preserve">
+                <block xmlns="http://www.w3.org/1999/XSL/Format" line-height="0pt" linefeed-treatment="preserve"
+                       white-space-treatment="preserve">
+                </block>
+            </fo:block>
+            <fo:block font-size="12.0pt" font-weight="bold" space-before="0.12in" start-indent="3mm"
+                      white-space-collapse="false" white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="12.0pt" font-weight="bold">
+                    <inline font-family="Times New Roman">BIÊN NHẬ</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="12.0pt" font-weight="bold">
+                    <inline font-family="Times New Roman">N</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="12.0pt" font-weight="bold">
+                    <inline font-family="Times New Roman">HỒ</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="12.0pt" font-weight="bold">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="12.0pt" font-weight="bold">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="12.0pt" font-weight="bold">
+                    <inline font-family="Times New Roman">SƠ</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="2mm" start-indent="0.06in" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <block xmlns="http://www.w3.org/1999/XSL/Format" line-height="0pt" linefeed-treatment="preserve"
+                       white-space-treatment="preserve">
+                </block>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">Hôm nay, ngày</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">...........</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">tháng</inline>   
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">năm</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">.....</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="7.5pt" space-before="0mm" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="8.5pt" space-before="0mm" start-indent="0.87in" white-space-collapse="false"
+                      white-space-treatment="preserve"><inline xmlns="http://www.w3.org/1999/XSL/Format"
+                                                               font-family="Times New Roman">Số</inline>   
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">/20</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">.....</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">/KSGROUP</inline>
+            </fo:block>
+            <fo:block font-size="11.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="8.5pt" font-weight="bold" space-before="0.05in" start-indent="3mm"
+                      white-space-collapse="false" white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">Họ tên:</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">[CUS_FULL_NAME]</inline>
+                </inline>
+                   
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.05in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">CMND/CCCD/ĐKKD:</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">[CUS_CARD_ID]</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.01in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">Cấp ngày:</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">[CUS_ID_ISSUE_DATE]</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="7.5pt" space-before="0mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <block xmlns="http://www.w3.org/1999/XSL/Format" line-height="0pt" linefeed-treatment="preserve"
+                       white-space-treatment="preserve">
+                </block>
+            </fo:block>
+            <fo:block font-size="8.5pt" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">Nơi cấp:</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">[CUS_ID_ISSUE_PLACE]</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.08in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt"/>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">Thông tin nhận chuyển
+                    nhượng trái phiếu của Khách hàng:
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">[CUS_FULL_NAME]</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.1in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">+ Ngày giao dịch (*):
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">[ORDER_DATE]</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.1in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">+ Số lượng Trái Phiếu
+                    nhận chuyển nhượng (*):
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">[ORDER_VOLUME.NUM]</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">Trái Phiếu</inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.1in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">+ Giá trị mỗi Trái
+                    Phiếu:
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">[ORDER_PRICE.NUM]</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">VND/Trái Phiếu.</inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.1in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">+ Tổng mệnh giá Trái
+                    phiếu nhận chuyển nhượng (*):
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">[ORDER_TOTAL.NUM]</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">VNĐ</inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.1in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <external-graphic content-height="157px" content-width="389px"
+                                      src="file:/C:/Users/Manh/AppData/Local/Temp/4c1054f4-6dfa-44fa-b70f-b957d6c9621aimage1.png"/>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">+ Hình thức đầu tư
+                    (*):
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">[ORDER_TYPE]</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="9.0pt" space-before="0.1in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">+ Ngày t</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">ất</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">toán (*):</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">[ORDER_DUE_DATE]</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" font-weight="bold" space-before="3mm" start-indent="3mm"
+                      white-space-collapse="false" white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">BÊN</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">NHẬN</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">:</inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.1in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">Họ tên:
+                    ......................................................................................ĐT:
+                    .............................................................................
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.1in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">CMND:
+                    ......................................Ngày cấp: ............................Nơi cấp:
+                    .....................................................................
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.1in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">Mã code kinh doanh:
+                    .....................................................................................................................................................
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0.1in" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">Bên Giao thực hiện bàn giao cho Bên Nhận các hồ sơ sau đây:
+                    </inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="3.0pt" white-space-treatment="preserve"></fo:block>
+
+            <fo:table border-bottom-color="#000000" border-bottom-style="solid" border-bottom-width="0.5pt"
+                      border-collapse="collapse" border-left-color="#000000" border-left-style="solid"
+                      border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                      border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                      border-top-width="0.5pt" display-align="before" start-indent="0.09in" table-layout="fixed"
+                      width="6.1in">
+                <fo:table-column column-number="1" column-width="0.25in"/>
+                <fo:table-column column-number="2" column-width="2.82in"/>
+                <fo:table-column column-number="3" column-width="13mm"/>
+                <fo:table-column column-number="4" column-width="20mm"/>
+                <fo:table-column column-number="5" column-width="1.74in"/>
+                <fo:table-body start-indent="0in">
+                    <fo:table-row height="0.19in">
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" number-rows-spanned="2"
+                                       padding-left="0mm" padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0.02in" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.5pt" font-weight="bold">
+                                    <inline font-family="Times New Roman">STT</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" number-rows-spanned="2"
+                                       padding-left="0mm" padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0.71in" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.5pt" font-weight="bold">
+                                    <inline font-family="Times New Roman">TÊN TÀI LIỆU BÀN GIAO</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" number-columns-spanned="3"
+                                       padding-left="0mm" padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="31mm" text-align="center"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt" font-weight="bold">
+                                    <inline font-family="Times New Roman">Tình trạng</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row height="8mm">
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0mm" text-align="center"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt" font-weight="bold">
+                                    <inline font-family="Times New Roman">Số lượng</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="4mm" text-align="center"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt" font-weight="bold">
+                                    <inline font-family="Times New Roman">Bản Gốc</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0.68in" text-indent="-0.63in"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt" font-weight="bold">
+                                    <inline font-family="Times New Roman">Bản Sao Công Chứng/ Đối chiếu bản gốc</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row height="0.18in">
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="3mm" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">1</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0.03in" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">Biên nhận hồ sơ</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0mm" text-align="center"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">0</inline>
+                                </inline>
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">2</inline>
+                                </inline>
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">bản</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0mm" text-align="center"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">X</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.0pt" space-after="1mm"
+                                   space-before="1mm" white-space-treatment="preserve"></block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row height="0.18in">
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="3mm" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">2</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0.03in" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">Hợp đồng đầu tư Trái phiếu</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0mm" text-align="center"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">0</inline>
+                                </inline>
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">3</inline>
+                                </inline>
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">bản</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0mm" text-align="center"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">X</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.0pt" space-after="1mm"
+                                   space-before="1mm" white-space-treatment="preserve"></block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row height="0.18in">
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="3mm" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">3</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0.03in" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">Phiếu đăng ký thông tin KH</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0mm" text-align="center"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">0</inline>
+                                </inline>
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">2</inline>
+                                </inline>
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">bản</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0mm" text-align="center"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">X</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.0pt" space-after="1mm"
+                                   space-before="1mm" white-space-treatment="preserve"></block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                    <fo:table-row height="0.18in">
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="3mm" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">4</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0.03in" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">CMND/ CCCD/ ĐKKD</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0mm" text-align="center"
+                                   white-space-collapse="false" white-space-treatment="preserve">
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">0</inline>
+                                </inline>
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">2</inline>
+                                </inline>
+                                <inline font-size="8.5pt">
+                                    <inline font-family="Times New Roman">bản</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" space-after="1mm"
+                                   space-before="1mm" start-indent="0mm" text-align="center"
+                                   white-space-treatment="preserve"></block>
+                        </fo:table-cell>
+                        <fo:table-cell border-bottom-color="#000000" border-bottom-style="solid"
+                                       border-bottom-width="0.5pt" border-left-color="#000000" border-left-style="solid"
+                                       border-left-width="0.5pt" border-right-color="#000000" border-right-style="solid"
+                                       border-right-width="0.5pt" border-top-color="#000000" border-top-style="solid"
+                                       border-top-width="0.5pt" display-align="center" padding-left="0mm"
+                                       padding-right="0mm">
+                            <block xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.0pt" space-after="1mm"
+                                   space-before="1mm" text-align="center" white-space-collapse="false"
+                                   white-space-treatment="preserve">
+                                <inline font-size="8.0pt">
+                                    <inline font-family="Times New Roman">X</inline>
+                                </inline>
+                            </block>
+                        </fo:table-cell>
+                    </fo:table-row>
+                </fo:table-body>
+            </fo:table>
+            <fo:block font-size="9.0pt" space-before="0mm" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="8.5pt" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">'Trong vòng tối đa
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">12</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">(</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">mười hai</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">) ngày làm việc, Khách
+                    hàng sẽ nhận lại Hồ sơ gốc bằng hình thức (chọn 01 trong 0
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">2</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">hình thức):</inline>
+            </fo:block>
+            <fo:list-block font-size="8.5pt" provisional-distance-between-starts="0.25in" start-indent="0.12in"
+                           text-indent="0in">
+                <fo:list-item>
+                    <fo:list-item-label font-size="8.5pt" font-weight="bold">
+                        <fo:block font-family="Symbol"></fo:block>
+                    </fo:list-item-label>
+                    <fo:list-item-body font-size="8.5pt" font-weight="bold" start-indent="body-start()">
+                        <fo:block line-height="106%" space-before="0.01in" white-space-collapse="false"
+                                  white-space-treatment="preserve">
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">Nhận</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">trực</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">tiếp</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">tại</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">Văn</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">phòng</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">Công</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">ty</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">cổ</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">phần</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">KS</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">GROUP</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">miền</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">Bắc:</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">Tòa</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">nhà</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">Sunshine</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">Center</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">–</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">Số</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">16</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">Phạm</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">Hùng,</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">P.</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">Mỹ Đình 2, Q. Nam Từ Liêm, Hà</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                                <inline font-family="Times New Roman">Nội.</inline>
+                            </inline>
+                        </fo:block>
+                    </fo:list-item-body>
+                </fo:list-item>
+            </fo:list-block>
+            <fo:list-block font-size="8.5pt" provisional-distance-between-starts="0.25in" start-indent="0.12in"
+                           text-indent="0in">
+                <fo:list-item>
+                    <fo:list-item-label font-size="8.5pt" font-weight="bold">
+                        <fo:block font-family="Symbol"></fo:block>
+                    </fo:list-item-label>
+                    <fo:list-item-body font-size="8.5pt" font-weight="bold" start-indent="body-start()">
+                        <fo:block line-height="106%" white-space-collapse="false" white-space-treatment="preserve">
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">Nhận</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">tại</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">Ngân hàng TMCP Đông Nam Á (SeABank) theo đầu mối
+                                </inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">:</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman"></inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">………………………………………………………..</inline>
+                            </inline>
+                            <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                                <inline font-family="Times New Roman">…………..………………………………………………………………………………………
+                                    ……………………………………………………………………………………..
+                                </inline>
+                            </inline>
+                        </fo:block>
+                    </fo:list-item-body>
+                </fo:list-item>
+            </fo:list-block>
+            <fo:block font-size="8.5pt" space-before="2mm" start-indent="3mm" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">Biên Nhận Hồ Sơ này được
+                    lập thành 02 (hai) bản có giá trị pháp lý như nhau, mỗi Bên giữ 01 (bản)
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt">
+                    <inline font-family="Times New Roman">.</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="10.0pt" space-before="0.01in" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="8.5pt" font-weight="bold" start-indent="0in" text-align="center"
+                      white-space-collapse="false" white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">BÊN</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">GIAO</inline>
+                </inline>
+                   
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-family="Times New Roman">BÊN</inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-weight="bold">
+                    <inline font-family="Times New Roman">NHẬN</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="8.5pt" space-before="0mm" text-align="center" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-style="italic">
+                    <inline font-family="Times New Roman">(Ký và ghi rõ</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-style="italic">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-style="italic">
+                    <inline font-family="Times New Roman">họ</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-style="italic">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-style="italic">
+                    <inline font-family="Times New Roman">tên)</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-style="italic">   
+                    <inline font-family="Times New Roman">(Ký và ghi rõ họ</inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-style="italic">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="8.5pt" font-style="italic">
+                    <inline font-family="Times New Roman">tên)</inline>
+                </inline>
+            </fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="9.0pt" white-space-treatment="preserve"></fo:block>
+            <fo:block font-size="9.0pt" space-before="2mm" start-indent="0.8in" white-space-collapse="false"
+                      white-space-treatment="preserve">
+                <inline xmlns="http://www.w3.org/1999/XSL/Format" font-size="9.0pt" font-style="italic">
+                    <inline font-family="Times New Roman"></inline>
+                </inline>
+            </fo:block>
+
+
+        </fo:flow>
+    </fo:page-sequence>
+</fo:root>
